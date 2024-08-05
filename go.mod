@@ -1,4 +1,4 @@
-module github.com/vseinstrumentiru/cdek
+module github.com/build-monsters/go-cdek
 
 go 1.18
 
