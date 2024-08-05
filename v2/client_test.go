@@ -15,10 +15,10 @@ func createTestClient() Client {
 
 	// public cdek test credentials
 	if clientId == "" {
-		clientId = "EMscd6r9JnFiQ3bLoyjJY6eM78JrJceI"
+		clientId = "wqGwiQx0gg8mLtiEKsUinjVSICCjtTEP"
 	}
 	if clientSecretId == "" {
-		clientSecretId = "PjLZkKBHEiLK3YsjtNrt3TGNG0ahs3kG"
+		clientSecretId = "RmAmgvSgSl1yirlz9QupbzOJVqhCxcP5"
 	}
 
 	return NewClient(&Options{
